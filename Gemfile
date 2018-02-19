@@ -60,3 +60,7 @@ gem 'jquery-ui-rails'
 gem 'faker'
 gem 'will_paginate'
 gem 'will_paginate-bootstrap'
+
+# group :doc do
+#   gem 'sdoc', '0.4.1', require: false
+# end
